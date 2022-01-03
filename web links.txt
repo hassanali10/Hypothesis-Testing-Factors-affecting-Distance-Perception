@@ -1,0 +1,4 @@
+https://www.itl.nist.gov/div898/handbook/prc/section4/prc471.htm
+https://support.minitab.com/en-us/minitab/18/help-and-how-to/modeling-statistics/anova/supporting-topics/multiple-comparisons/what-is-tukey-s-method/
+https://support.minitab.com/en-us/minitab/18/help-and-how-to/modeling-statistics/anova/supporting-topics/multiple-comparisons/what-is-the-adjusted-p-value/
+https://www.researchgate.net/profile/Lynne_Williams/publication/237426041_Tukey's_Honestly_Signiflcant_Difierence_HSD_Test/links/00463528e752ddb7f3000000.pdf
